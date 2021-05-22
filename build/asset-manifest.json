@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Urkis/static/css/main.307987fe.chunk.css",
+    "main.js": "/Urkis/static/js/main.bed59061.chunk.js",
+    "main.js.map": "/Urkis/static/js/main.bed59061.chunk.js.map",
+    "runtime-main.js": "/Urkis/static/js/runtime-main.10226699.js",
+    "runtime-main.js.map": "/Urkis/static/js/runtime-main.10226699.js.map",
+    "static/js/2.076cce1d.chunk.js": "/Urkis/static/js/2.076cce1d.chunk.js",
+    "static/js/2.076cce1d.chunk.js.map": "/Urkis/static/js/2.076cce1d.chunk.js.map",
+    "index.html": "/Urkis/index.html",
+    "static/css/main.307987fe.chunk.css.map": "/Urkis/static/css/main.307987fe.chunk.css.map",
+    "static/js/2.076cce1d.chunk.js.LICENSE.txt": "/Urkis/static/js/2.076cce1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10226699.js",
+    "static/js/2.076cce1d.chunk.js",
+    "static/css/main.307987fe.chunk.css",
+    "static/js/main.bed59061.chunk.js"
+  ]
+}
