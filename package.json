@@ -1,8 +1,8 @@
 {
-  "name": "floating-laptop",
+  "name": "#URKIS",
   "version": "1.0.0",
   "description": "Animating GLTFs with react-spring.",
-  "homepage": "https://github.com/Zulker-Nien/Urkis.git",
+  "homepage": "https://zulker-nien.github.io/Urkis/",
   "keywords": [
     "gltf",
     "animation",
