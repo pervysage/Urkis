@@ -1,8 +1,8 @@
 {
-  "homepage":"http://Zulker-Nien.github.io/Zulker_Nien",
+  "homepage":"http://zulker-nien.github.io/zulker_nien",
   "version": "0.0.0",
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy":"vite build",
     "deploy":"gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
