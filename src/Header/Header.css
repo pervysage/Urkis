@@ -51,6 +51,7 @@
     animation: 
       4s typing-erase 1s infinite,
       blink-caret 5s step-end infinite;
+      /*  */
   }
   
   /* The type and erase effect */
