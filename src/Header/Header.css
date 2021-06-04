@@ -49,7 +49,7 @@
   
   .typing-erase {
     animation: 
-      4s typing-erase 5s infinite,
+      4s typing-erase 1s infinite,
       blink-caret 5s step-end infinite;
   }
   
