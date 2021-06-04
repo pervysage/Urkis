@@ -4,7 +4,7 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "start": "npm run dev"
+    "start": "vite"
   },
   "keywords": [
     "gltf",
